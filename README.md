@@ -19,3 +19,6 @@
          classification_report(y_true, y_pred)
 
    Which algorithm you got better accuracy? Can you justify why?
+
+
+   Video: https://drive.google.com/drive/u/2/folders/1PhqZUrnFAdWpaWdB81dvy_H4b-EmSuOT
